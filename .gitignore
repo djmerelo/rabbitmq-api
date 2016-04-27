@@ -1,0 +1,7 @@
+/Vagrantfile
+/composer.phar
+/.vagrant
+/vendor
+/build
+/.idea
+/test.php
